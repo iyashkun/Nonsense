@@ -113,5 +113,5 @@ def run_tests(domain):
     print(files)
 
 if __name__ == "__main__":
-    domain = ""
+    domain = "telegram.org"
     run_tests(domain)
