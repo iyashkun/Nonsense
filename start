@@ -1,1 +1,1 @@
-pip install whois requests dns.resolver && python app.py
+pip install python-whois requests dnspython && python app.py
