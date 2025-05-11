@@ -113,5 +113,5 @@ def run_tests(domain):
     print(files)
 
 if __name__ == "__main__":
-    domain = "licindia.com"
+    domain = input('Enter website url :')
     run_tests(domain)
